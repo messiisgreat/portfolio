@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /*
-Host: https://portfolio-AAAA7.vercel.app/
+Host: https://portfolio-Anaconda7.vercel.app/

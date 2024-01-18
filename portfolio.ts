@@ -12,8 +12,8 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'AAAA',
-  title: "Hi all, I'm AAAA",
+  name: 'Anaconda',
+  title: "Hi all, I'm Anaconda",
   description:
     "I'm passionate Full Stack Web Engineer having rich experience of web applications with Python, Django, React.js, Next.js, MERN Stack, Laravel and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework. In other hand I am familiar with Tensorflow and Machine Learning for builiding AI model.",
   resumeLink: '#',
@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: '#',
-  // linkedin: 'https://www.linkedin.com/in/AAAA-lake-682326285/',
+  // linkedin: 'https://www.linkedin.com/in/Anaconda-lake-682326285/',
   github: '#',
 };
 
@@ -290,10 +290,10 @@ Maintained and updated 10 existing applications, and provided technical support 
 
 export const projects: ProjectType[] = [
   {
-    name: 'developer-portfolio',
+    name: 'anaconda-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: '#/portfolio-full-stack-dev',
-    link: 'https://portfolio-AAAA7.vercel.app/',
+    link: 'https://portfolio-Anaconda7.vercel.app/',
   },
   {
     name: 'Smart-app ',
@@ -317,42 +317,42 @@ export const feedbacks: FeedbackType[] = [
   {
     name: 'James Fernando',
     feedback:
-      'AAAA is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both front-end and back-end development allowed him to create a seamless and visually appealing website.',
+      'Anaconda is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both front-end and back-end development allowed him to create a seamless and visually appealing website.',
   },
   {
     name: 'Jacques Philips',
     feedback:
-      "I had the pleasure of working with AAAA on a complex web development project, and I was thoroughly impressed with his skills and professionalism. AAAA's ability to understand and translate our requirements into a functional and user-friendly website was remarkable.",
+      "I had the pleasure of working with Anaconda on a complex web development project, and I was thoroughly impressed with his skills and professionalism. Anaconda's ability to understand and translate our requirements into a functional and user-friendly website was remarkable.",
   },
   {
     name: 'Venanda Mercy',
     feedback:
-      'AAAA is an incredibly talented full-stack developer who consistently exceeded our expectations. His ability to seamlessly integrate various technologies and frameworks into our website was impressive.',
+      'Anaconda is an incredibly talented full-stack developer who consistently exceeded our expectations. His ability to seamlessly integrate various technologies and frameworks into our website was impressive.',
   },
   {
     name: 'James Fernando',
     feedback:
-      'I had the pleasure of working with AAAA on a recent web development project, and I must say, he exceeded all expectations. As a full-stack developer, AAAA showcased an exceptional level of expertise in both front-end and back-end technologies.',
+      'I had the pleasure of working with Anaconda on a recent web development project, and I must say, he exceeded all expectations. As a full-stack developer, Anaconda showcased an exceptional level of expertise in both front-end and back-end technologies.',
   },
 ];
 
 export const showContactUs: boolean = true;
 
 export const seoData: SEODataType = {
-  title: 'AAAA',
+  title: 'Anaconda',
   description:
     'A passionate Full Stack Web Developer and Blockchain Developer.',
-  author: 'AAAA',
+  author: 'Anaconda',
   avatar_url: 'https://avatars3.githubusercontent.com/u/135434950?v=4',
-  url: 'https://developer-portfolio-AAAA.vercel.app',
+  url: 'https://developer-portfolio-Anaconda.vercel.app',
   keywords: [
-    'AAAA',
-    'AAAA',
+    'Anaconda',
+    'Anaconda',
     '@shine7star',
     'shine7star',
     'Portfolio',
-    'AAAA Portfolio ',
-    'AAAA Portfolio',
+    'Anaconda Portfolio ',
+    'Anaconda Portfolio',
     'shine',
     'how is top developer',
     'front-end',
