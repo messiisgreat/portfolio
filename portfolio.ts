@@ -217,11 +217,7 @@ export const SkillBars: SkillBarsType[] = [
   {
     Stack: 'Blockchain',
     progressPercentage: '70',
-  },
-  {
-    Stack: 'AI',
-    progressPercentage: '50',
-  },
+  }
 ];
 
 export const educationInfo: EducationType[] = [
@@ -292,17 +288,18 @@ export const projects: ProjectType[] = [
     name: 'Smart-app ',
     desc: 'Smart-app is a client-side web application built using the React.js library for fetching and displaying data from APIs or local JSON files. The application features a simple and intuitive user interface that allows users to view data in a variety of formats.',
     github: '#/smart-app',
-    link: 'https://complete-smart-app.vercel.app/',
+    // link: 'https://netzerocarbontoken.com//',
   },
   {
-    name: 'MERN Blog',
-    desc: 'MERN Blog is a MERN Blog is a full-stack web application for creating and sharing blog posts. It is built using the MERN stack. The application provides a simple, intuitive user interface and features such as authentication, authorization, and CRUD operations.',
-    github: '#/blog-mern',
+    name: 'NETZERO',
+    desc: 'NETZERO is a MERN website With vision of "Reverse climate change with the most transparent carbon removal marketplace"',
+    // github: '#/blog-mern',
+    link: 'https://netzerocarbontoken.com//',
   },
   {
-    name: 'Shop-Vue',
-    desc: 'E-shop with Vue.js is a full-stack web application for building and managing an online store. The application is built using the Vue.js framework and features a modern and responsive user interface that provides a seamless shopping experience for customers.',
-    github: '#/shop-Vue',
+    name: 'Real-Estate',
+    desc: 'Real-Estate is Fully responsive real estate selling/renting site with nextjs and tailwind',
+    github: 'https://github.com/messiisgreat/Real-estate',
   },
 ];
 
@@ -310,22 +307,22 @@ export const feedbacks: FeedbackType[] = [
   {
     name: 'James Fernando',
     feedback:
-      'Anaconda is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both front-end and back-end development allowed him to create a seamless and visually appealing website.',
+      'Atsushi is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both front-end and back-end development allowed him to create a seamless and visually appealing website.',
   },
   {
     name: 'Jacques Philips',
     feedback:
-      "I had the pleasure of working with Anaconda on a complex web development project, and I was thoroughly impressed with his skills and professionalism. Anaconda's ability to understand and translate our requirements into a functional and user-friendly website was remarkable.",
+      "I had the pleasure of working with Atsushi on a complex web development project, and I was thoroughly impressed with his skills and professionalism. Atsushi's ability to understand and translate our requirements into a functional and user-friendly website was remarkable.",
   },
   {
     name: 'Venanda Mercy',
     feedback:
-      'Anaconda is an incredibly talented full-stack developer who consistently exceeded our expectations. His ability to seamlessly integrate various technologies and frameworks into our website was impressive.',
+      'Atsushi is an incredibly talented full-stack developer who consistently exceeded our expectations. His ability to seamlessly integrate various technologies and frameworks into our website was impressive.',
   },
   {
     name: 'James Fernando',
     feedback:
-      'I had the pleasure of working with Anaconda on a recent web development project, and I must say, he exceeded all expectations. As a full-stack developer, Anaconda showcased an exceptional level of expertise in both front-end and back-end technologies.',
+      'I had the pleasure of working with Atsushi on a recent web development project, and I must say, he exceeded all expectations. As a full-stack developer, Atsushi showcased an exceptional level of expertise in both front-end and back-end technologies.',
   },
 ];
 
@@ -341,16 +338,18 @@ export const seoData: SEODataType = {
   keywords: [
     'Anaconda',
     'Anaconda',
-    '@shine7star',
-    'shine7star',
+    '@superonecoderman',
+    'anaconda',
     'Portfolio',
     'Anaconda Portfolio ',
     'Anaconda Portfolio',
-    'shine',
+    'atsushi',
     'how is top developer',
     'front-end',
     'back-end',
     'full-stack',
     'engineer',
+    'blockchain',
+    'rust',
   ],
 };
