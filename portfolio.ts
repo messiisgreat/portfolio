@@ -28,7 +28,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
   url: '#',
   // linkedin: 'https://www.linkedin.com/in/Anaconda-lake-682326285/',
-  github: '#',
+  github: 'https://github.com/messiisgreat',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -226,16 +226,9 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'University of Applied Sciences Duesseldorf',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2014 - April 2018',
-    desc: 'Participated in the research of AI and published 3 papers.',
-    grade: 'Grade A',
-  },
-  {
-    schoolName: 'Duesseldorf Institute of Technology',
+    schoolName: 'Okinawa International University',
     subHeader: 'Bachelor of Science in Computer Science',
-    duration: 'September 2013 - April 2014',
+    duration: 'September 2012 - August 2016',
     desc: 'Participated in the research of algorithm and published 2 papers.',
     grade: 'Grade B',
   },
