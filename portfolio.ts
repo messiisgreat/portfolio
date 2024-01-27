@@ -236,44 +236,35 @@ export const experience: ExperienceType[] = [
     company: 'Pear Computers',
     companyLogo: '/img/icons/common/pearcomputers.png',
     date: 'Feb 2021 – Jun 2023',
-    desc: 'Developed backend services using Spring boot framework and front end using React or Vue.\n\
-Reviewed, analyzed, and optimized server performance by 50%, substituting EJS with React, NodeJS, Mongo DB, and Express.\n\
-Resolved 300+ critical bugs in the product to improve performance and helped customers launch a seamless experience.',
+    desc: 'have worked as a senior web developer and made both frontend and backend. Utilized ReactJS for its efficient data flow architecture to create a lightweight and render efficient web app that searched projects via the GitHub API through keywords. Developed Restful endpoints with node/express, PHP Frameworks. Integrated web-sockets and web hooks. Designed and deployed smart contracts for tokens and ICOs including token vesting, refund vaults and multi-signature wallets.',
   },
   {
-    role: 'Junior Full-Stack Developer',
-    company: 'Duseca Software',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-    date: 'Mar 2019 – Jan 2021',
-    desc: 'Designed and developed 10 web applications using React, Node.js, and SQL databases, resulting in a 25% increase in user engagement and a 20% increase in revenue\n\
-Conducted 50 code reviews and participated in 10 continuous integration and deployment processes, resulting in a 40% reduction in bugs and a 50% increase in deployment frequency\n\
-Maintained and updated 5 existing applications, and provided technical support to 50 users as needed',
-  },
-  {
-    role: 'Front-End Developer',
-    company: 'DSV ISS',
-    companyLogo: '/img/icons/common/DSV.jpg',
-    date: 'Jan 2017 - Feb 2019',
-    desc: 'Conducted over 60 successful tastings to identify bugs that resulted in over 500 UI improvements.\n\
-Collaborated with colleagues from the research and design department making sure the web pages are user-friendly.\n\
-Coded and implemented over 40 HTML email templates for the Marketing Department.',
-  },
-  {
-    role: 'Backend Developer',
-    company: 'Wapidu',
-    companyLogo: '/img/icons/common/wapidu.jpg',
-    date: 'Jan 2016 - Dec 2016',
-    desc: 'Rapidly prototyped new data processing capabilities to confirm integration feasibility into existing systems.\n\
-Developed conversion and system implementation plans.\n\
-Tested functional compliance of company products.',
-  },
-  {
-    role: 'Freelancer',
+    role: 'Blockchain Freelancer',
     company: 'Upwork',
-    companyLogo: '/img/icons/common/upwork.jpg',
-    date: 'Sept 2014 - Nov 2015',
-    desc: 'Worked with 15 clients to design and develop 20 web applications using React, Node.js, and SQL databases, resulting in a 30% increase in user engagement and a 25% increase in revenue for clients\n\
-Maintained and updated 10 existing applications, and provided technical support to 100 clients as needed',
+    companyLogo: '/img/icons/common/upwork.png',
+    date: 'September 2020 - June 2021',
+    desc: 'Worked for almost 2 years as a senior blockchain developer on the upwork site. Acquired the new skills, abilities and knowledge on this site. Because there so many developers that acquire the high tech.',
+  },
+  {
+    role: 'Full-stack Developer',
+    company: 'Techverx',
+    companyLogo: '/img/icons/common/techverx.jpg',
+    date: 'June 2019 - September 2020',
+    desc: 'Worked as a full stack developer and made both frontend and backend. Involved in web application development for back-end system using AngularJS and Node.js with cutting edge Written Web Services using SOAP for sending and getting data from the external interface.',
+  },
+  {
+    role: 'Frontend Developer',
+    company: 'Caktus Group',
+    companyLogo: '/img/icons/common/caktus.png',
+    date: 'August 2017 - July 2019',
+    desc: 'Worked on building new React components for the customer-facing web app which improved the time on page. Worked within an agile team and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first.',
+  },
+  {
+    role: 'Intern',
+    company: 'Alchemy',
+    companyLogo: '/img/icons/common/alchemy.png',
+    date: 'November 2016 - June 2017',
+    desc: 'Took part in web3 platform development and built frontend using next.js implemented web3 integration using web3.js',
   },
 ];
 
