@@ -161,43 +161,43 @@ export const skillsSection: SkillsSectionType = {
         },
       ],
     },
-    {
-      title: 'Artificial Intelligence',
-      lottieAnimationFile: '/lottie/skills/ai.json',
-      skills: [
-        emoji('⚡ Proficient in programming and algorithms'),
-        emoji('⚡ Designs intelligent systems for learning and improvement'),
-        emoji('⚡ Expertise in machine learning, NLP, and computer vision'),
-        emoji('⚡ Creates AI solutions for complex problems'),
-        emoji('⚡ Drives business value through AI'),
-      ],
-      softwareSkills: [
-        {
-          skillName: 'TensorFlow',
-          fontAwesomeClassName: 'logos:tensorflow',
-        },
-        {
-          skillName: 'Machine Learning',
-          fontAwesomeClassName: 'vscode-icons:file-type-robots',
-        },
-        {
-          skillName: 'Natural Language Processing',
-          fontAwesomeClassName: 'vscode-icons:file-type-json-official',
-        },
-        {
-          skillName: 'Neural Networks',
-          fontAwesomeClassName: 'vscode-icons:file-type-jsonnet',
-        },
-        {
-          skillName: 'Numpy',
-          fontAwesomeClassName: 'logos:numpy',
-        },
-        {
-          skillName: 'PyCharm',
-          fontAwesomeClassName: 'logos:pycharm',
-        },
-      ],
-    },
+    // {
+    //   title: 'Artificial Intelligence',
+    //   lottieAnimationFile: '/lottie/skills/ai.json',
+    //   skills: [
+    //     emoji('⚡ Proficient in programming and algorithms'),
+    //     emoji('⚡ Designs intelligent systems for learning and improvement'),
+    //     emoji('⚡ Expertise in machine learning, NLP, and computer vision'),
+    //     emoji('⚡ Creates AI solutions for complex problems'),
+    //     emoji('⚡ Drives business value through AI'),
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: 'TensorFlow',
+    //       fontAwesomeClassName: 'logos:tensorflow',
+    //     },
+    //     {
+    //       skillName: 'Machine Learning',
+    //       fontAwesomeClassName: 'vscode-icons:file-type-robots',
+    //     },
+    //     {
+    //       skillName: 'Natural Language Processing',
+    //       fontAwesomeClassName: 'vscode-icons:file-type-json-official',
+    //     },
+    //     {
+    //       skillName: 'Neural Networks',
+    //       fontAwesomeClassName: 'vscode-icons:file-type-jsonnet',
+    //     },
+    //     {
+    //       skillName: 'Numpy',
+    //       fontAwesomeClassName: 'logos:numpy',
+    //     },
+    //     {
+    //       skillName: 'PyCharm',
+    //       fontAwesomeClassName: 'logos:pycharm',
+    //     },
+    //   ],
+    // },
   ],
 };
 
