@@ -232,17 +232,31 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Senior Full-Stack Engineer',
-    company: 'Pear Computers',
-    companyLogo: '/img/icons/common/pearcomputers.png',
-    date: 'Feb 2021 – Jun 2023',
+    role: 'Blockchain FullStack Developer',
+    company: 'Opolis',
+    companyLogo: '/img/icons/common/opolis.png',
+    date: 'July 2022 - September 2023',
+    desc: 'Experience working with third-party libraries, Geo Toolkit, html2Canvas, Material UI for the frontend development. Used React JS for templating for faster compilation and developing resuable components. And also used React JS in components like JSX, creating React components. Converting StripFan Angular to React + NextJS project (For speed imporvement and to give proper structure)',
+  },
+  {
+    role: 'Blockchain FullStack Developer',
+    company: 'KodaDot - Creators Marketplace',
+    companyLogo: '/img/icons/common/kodadot.png',
+    date: 'March 2022 - June 2022',
+    desc: 'Made front-end website including token management portal, dashboard, vesting UI using following skills • Developed ERC721, ERC1155, ERC20 smart contracts with solidity and some NFT projects based on EVM.',
+  },
+  {
+    role: 'Web3 Frontend PM',
+    company: 'Crystal Finance',
+    companyLogo: '/img/icons/common/crystalfinance.png',
+    date: 'June 2021 - February 2022',
     desc: 'have worked as a senior web developer and made both frontend and backend. Utilized ReactJS for its efficient data flow architecture to create a lightweight and render efficient web app that searched projects via the GitHub API through keywords. Developed Restful endpoints with node/express, PHP Frameworks. Integrated web-sockets and web hooks. Designed and deployed smart contracts for tokens and ICOs including token vesting, refund vaults and multi-signature wallets.',
   },
   {
     role: 'Blockchain Freelancer',
     company: 'Upwork',
     companyLogo: '/img/icons/common/upwork.png',
-    date: 'September 2020 - June 2021',
+    date: 'September 2020 - June 2021 ',
     desc: 'Worked for almost 2 years as a senior blockchain developer on the upwork site. Acquired the new skills, abilities and knowledge on this site. Because there so many developers that acquire the high tech.',
   },
   {
