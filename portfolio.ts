@@ -15,19 +15,19 @@ export const greetings: GreetingsType = {
   name: 'Anaconda',
   title: "Hi all, I'm Anaconda",
   description:
-    "I'm passionate Full Stack Web Engineer having rich experience of web applications with Python, Django, React.js, Next.js, MERN Stack, Laravel and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework. In other hand I am familiar with Tensorflow and Machine Learning for builiding AI model.",
-  resumeLink: '#',
+    "I'm passionate Full Stack Web Engineer having rich experience of web applications with React.js, Next.js,Vue.js, Nuxt.js, Laravel, Django and Blockchain development on Solidity, Rust, Web3.js, Ether.js for Ethereum and Solana etc.",
+  resumeLink: 'https://drive.google.com/file/d/1i2nkDvpDN68KEvNnz0Q2usMIXrMeDYhb/view?usp=sharing',
 };
 
 export const openSource = {
-  githubUserName: 'skyninjadev',
+  githubUserName: 'Anaconda',
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: '#',
-  // linkedin: 'https://www.linkedin.com/in/Anaconda-lake-682326285/',
+  linkedin: 'https://www.linkedin.com/in/atsushi-yamada-132449298',
   github: 'https://github.com/messiisgreat',
 };
 

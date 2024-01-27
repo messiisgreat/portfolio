@@ -74,5 +74,5 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 👤 **Ace**
 
 - Website: #
-- Github: [@skyninjadev](#)
-- LinkedIn: [@skyninjadev]
+- Github: [Anaconda](https://github.com/messiisgreat)
+- LinkedIn: [Anaconda](https://www.linkedin.com/in/atsushi-yamada-132449298)
