@@ -284,27 +284,28 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'anaconda-portfolio',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: '#/portfolio-full-stack-dev',
-    link: 'https://portfolio-Anaconda7.vercel.app/',
+    name: 'Trendingo',
+    desc: 'The frontend of Trendingo - Ordering service related to crypto side',
+    github: 'https://github.com/messiisgreat/trendingo-frontend',
+    link: 'https://trendingo.cc/',
   },
   {
-    name: 'Smart-app ',
-    desc: 'Smart-app is a client-side web application built using the React.js library for fetching and displaying data from APIs or local JSON files. The application features a simple and intuitive user interface that allows users to view data in a variety of formats.',
-    github: '#/smart-app',
-    // link: 'https://netzerocarbontoken.com//',
+    name: 'Swappy',
+    desc: 'Swappy is a full stack web project built with Next.js and MongoDB serverless development',
+    github: 'https://github.com/messiisgreat/media-swap',
+    link: 'https://https://www.swappy.jp',
   },
   {
     name: 'NETZERO',
     desc: 'NETZERO is a MERN website With vision of "Reverse climate change with the most transparent carbon removal marketplace"',
-    // github: '#/blog-mern',
+    github: 'https://github.com/messiisgreat/Netzero-frontend',
     link: 'https://netzerocarbontoken.com//',
   },
   {
-    name: 'Real-Estate',
-    desc: 'Real-Estate is Fully responsive real estate selling/renting site with nextjs and tailwind',
-    github: 'https://github.com/messiisgreat/Real-estate',
+    name: 'Ownboon',
+    desc: 'Ownboon is Fully responsive community ewbsite with nextjs and tailwindCSS',
+    github: 'https://github.com/messiisgreat/OwnBoon',
+    link: 'http://ownboon.com/',
   },
 ];
 
