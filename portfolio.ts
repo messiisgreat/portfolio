@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   url: '#',
-  linkedin: 'https://www.linkedin.com/in/atsushi-yamada-132449298',
+  // linkedin: 'https://www.linkedin.com/in/atsushi-yamada-132449298',
   github: 'https://github.com/messiisgreat',
 };
 
