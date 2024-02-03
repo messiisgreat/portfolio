@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Anaconda',
-  title: "Hi all, I'm Anaconda",
+  title: "Hi all, I'm Atsushi",
   description:
     "I'm passionate Full Stack Web Engineer having rich experience of web applications with React.js, Next.js,Vue.js, Nuxt.js, Laravel, Django and Blockchain development on Solidity, Rust, Web3.js, Ether.js for Ethereum and Solana etc.",
   resumeLink: 'https://drive.google.com/file/d/1i2nkDvpDN68KEvNnz0Q2usMIXrMeDYhb/view?usp=sharing',
@@ -232,14 +232,14 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Blockchain FullStack Developer',
+    role: 'Full Stack Developer',
     company: 'Opolis',
     companyLogo: '/img/icons/common/opolis.png',
     date: 'July 2022 - September 2023',
     desc: 'Experience working with third-party libraries, Geo Toolkit, html2Canvas, Material UI for the frontend development. Used React JS for templating for faster compilation and developing resuable components. And also used React JS in components like JSX, creating React components. Converting StripFan Angular to React + NextJS project (For speed imporvement and to give proper structure)',
   },
   {
-    role: 'Blockchain FullStack Developer',
+    role: 'FullStack Developer',
     company: 'KodaDot - Creators Marketplace',
     companyLogo: '/img/icons/common/kodadot.png',
     date: 'March 2022 - June 2022',
@@ -260,7 +260,7 @@ export const experience: ExperienceType[] = [
     desc: 'Worked for almost 2 years as a senior blockchain developer on the upwork site. Acquired the new skills, abilities and knowledge on this site. Because there so many developers that acquire the high tech.',
   },
   {
-    role: 'Full-stack Developer',
+    role: 'Full Stack Developer',
     company: 'Techverx',
     companyLogo: '/img/icons/common/techverx.jpg',
     date: 'June 2019 - September 2020',
@@ -311,7 +311,7 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'James Fernando',
+    name: 'Steven Lee',
     feedback:
       'Atsushi is an exceptional full-stack developer who consistently delivers high-quality work. His expertise in both front-end and back-end development allowed him to create a seamless and visually appealing website.',
   },
@@ -337,7 +337,7 @@ export const showContactUs: boolean = true;
 export const seoData: SEODataType = {
   title: 'Anaconda',
   description:
-    'A passionate Full Stack Web Developer and Blockchain Developer.',
+    'A passionate Full Stack Web and Blockchain Developer.',
   author: 'Anaconda',
   avatar_url: 'https://avatars3.githubusercontent.com/u/135434950?v=4',
   url: 'https://developer-portfolio-Anaconda.vercel.app',
