@@ -133,7 +133,7 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: '/lottie/skills/ethereum.json',
       skills: [
         emoji(
-          '⚡ Experience in developing Smart Contract using Solidity & Ethereum'
+          '⚡ Experience in developing Smart Contract using Solidity & Rust'
         ),
         emoji(
           '⚡ Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura'
